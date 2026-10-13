@@ -1,4 +1,4 @@
-Họ tên: <điền họ tên>
+Họ tên: Phạm Hoàng Anh Khôi
 `dataset_version`: <điền, lấy từ data/splits/meta.json>
 
 ## Bảng tổng hợp (số của bạn, lấy từ `report/evidence/*.json`)
